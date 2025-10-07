@@ -5,7 +5,7 @@
 This project showcases my skills as a Data Entry Specialist.
 I manually entered raw employee leave data from scratch into Excel, cleaned and formatted it, and created a professional dashboard using pivot tables and charts.
 This project helped me understand how real-world data is handled — from typing to reporting.
-
+![](https://github.com/sshankt/Employee-Leave-and-Attendance-Tracker-Project/blob/main/photo_6280350129860578581_w.jpg)
 ## 📂 Project Steps
 ###  1️⃣ Data Entry (Manual Typing)
 
