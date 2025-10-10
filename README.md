@@ -10,14 +10,14 @@ This project helped me understand how real-world data is handled — from typing
 ###  1️⃣ Data Entry (Manual Typing)
 
 Typed 80+ rows of employee leave and attendance data manually in Excel.
-
+![](https://github.com/sshankt/Employee-Leave-and-Attendance-Tracker-Project/blob/main/photo_6280350129860578583_y.jpg)
 Columns included:
 | Employee ID | Employee Name | Department | Designation | Leave Type | Leave Start Date | Leave End Date | Total Leave Days | Status | Remarks |
 
 Ensured each row was entered carefully without copy-paste to simulate real data entry work.
 
 ### 2️⃣ Data Cleaning
-
+![](https://github.com/sshankt/Employee-Leave-and-Attendance-Tracker-Project/blob/main/photo_6280350129860578582_w.jpg)
 Performed basic cleaning tasks to make the data accurate and consistent:
 
 Used Spell Check (F7) to correct typing errors.
@@ -77,7 +77,7 @@ Sorted and filtered data by Department, Status, and Leave Type for quick insight
 ### 7️⃣ Dashboard & Pivot Tables
 
 Created Pivot Tables to summarize and analyze the data:
-
+![](https://github.com/sshankt/Employee-Leave-and-Attendance-Tracker-Project/blob/main/photo_6289746191159331737_w.jpg)
 Leaves by Department
 
 Rows: Department
